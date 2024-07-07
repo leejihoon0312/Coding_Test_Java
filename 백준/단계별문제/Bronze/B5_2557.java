@@ -1,6 +1,6 @@
-package 단계별문제.Bronze.Tier5;
+package 단계별문제.Bronze;
 
-public class HelloWorld {
+public class B5_2557 {
 
     public static void main(String[] args) {
         System.out.print("Hello World!");
